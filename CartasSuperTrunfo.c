@@ -6,14 +6,16 @@ int main (){
 
     int estado;
     char Inicial = 'P';
-    char nome [6] = "Paraná";
-    
+    char nome [6] ="Paraná";
+
 
      char codigo [3];
      printf(" A01\n");
 
-      int habitantes;
-      float habitantes = 11.824;
+      int habitantes
+      float Habitantes= 11.824;
+
+
       
       float quilometragem =19.507;
       
