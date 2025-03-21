@@ -12,7 +12,7 @@ int main (){
      char codigo [3];
      printf(" A01\n");
 
-      int habitantes
+      int habitantes;
       float Habitantes= 11.824;
 
 
